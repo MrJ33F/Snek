@@ -6,6 +6,8 @@ import android.content.SharedPreferences;
 
 import java.util.UUID;
 
+import project.android.snek.multiplayer.model.PlayerJoinMessage;
+
 public class Config {
 
     @SuppressLint("StaticFieldLeak")
