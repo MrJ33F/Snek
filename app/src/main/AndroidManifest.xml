@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="project.android.androidprojectsnek">
+    package="project.android.snek">
 
     <application
         android:allowBackup="true"
@@ -10,16 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidProjectSnek">
         <activity
-            android:name=".activity.ConfigActivity"
+            android:name="project.android.snek.activity.ConfigActivity"
             android:exported="false" />
         <activity
-            android:name=".SkinView"
+            android:name="project.android.snek.SkinView"
             android:exported="false" />
         <activity
-            android:name=".activity.SkinActivity"
+            android:name="project.android.snek.activity.SkinActivity"
             android:exported="false" />
         <activity
-            android:name=".activity.MainActivity"
+            android:name="project.android.snek.activity.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
