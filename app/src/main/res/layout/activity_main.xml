@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/caesar_dressing"
-        android:text="@string/snek"
+        android:text="@string/snake"
         android:textColor="@color/colorAccent"
         android:textSize="128sp"
         app:layout_constraintBottom_toBottomOf="parent"
