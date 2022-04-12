@@ -15,7 +15,7 @@ import java.util.Queue;
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import project.android.androidprojectsnek.R;
+import project.android.snek.R;
 import project.android.snek.utils.Vector;
 
 

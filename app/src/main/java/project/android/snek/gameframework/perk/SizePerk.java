@@ -7,7 +7,7 @@ import android.graphics.drawable.Drawable;
 
 import androidx.core.content.res.ResourcesCompat;
 
-import project.android.androidprojectsnek.R;
+import project.android.snek.R;
 import project.android.snek.gameframework.GameConstants;
 import project.android.snek.gameframework.player.Player;
 

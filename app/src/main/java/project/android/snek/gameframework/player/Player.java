@@ -9,9 +9,11 @@ import androidx.core.content.res.ResourcesCompat;
 import java.util.LinkedList;
 import java.util.List;
 
-import project.android.androidprojectsnek.R;
+import project.android.snek.R;
+import project.android.snek.customization.Config;
+import project.android.snek.customization.SkinDrawable;
 import project.android.snek.gameframework.GameConstants;
-import project.android.snek.gameframework.GameGameConstants;
+import project.android.snek.gameframework.GameConstants;
 import project.android.snek.gameframework.GameObject;
 import project.android.snek.gameframework.controller.GameViewController;
 import project.android.snek.gameframework.perk.Perk;

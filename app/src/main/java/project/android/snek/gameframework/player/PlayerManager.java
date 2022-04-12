@@ -11,6 +11,7 @@ import java.util.TimerTask;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+import project.android.snek.customization.Config;
 import project.android.snek.gameframework.GameConstants;
 import project.android.snek.gameframework.controller.GameViewController;
 import project.android.snek.gameframework.controller.Grid;

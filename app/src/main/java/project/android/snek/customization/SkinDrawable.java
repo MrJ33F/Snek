@@ -3,7 +3,7 @@ package project.android.snek.customization;
 import androidx.annotation.DrawableRes;
 
 
-import project.android.androidprojectsnek.R;
+import project.android.snek.R;
 
 public enum SkinDrawable {
 
